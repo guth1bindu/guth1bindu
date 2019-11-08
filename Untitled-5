@@ -1,0 +1,4 @@
+def decor(func):
+    def inner(m,n):
+        if n==o:
+          

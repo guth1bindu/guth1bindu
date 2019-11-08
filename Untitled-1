@@ -1,0 +1,14 @@
+def hhh(func):
+    def sup(name):
+        if name==roopa:
+            print("roopa is a badgirl")
+        else:
+            func(hai)
+    return sup
+@hhh
+def wish(name):
+    print("hi",namem,"your nice")
+wish(bindu)
+wish(sindu)
+wish(mounika)
+wish(kiran)
