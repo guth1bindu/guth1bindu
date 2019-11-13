@@ -1,0 +1,29 @@
+INFO:root:a new request came
+INFO:root:request is completed
+INFO:root:a new request came
+INFO:root:request is completed
+INFO:root:a new request came
+INFO:root:a new request came
+INFO:root:a new request came
+INFO:root:request is completed
+INFO:root:a new request came
+ERROR:root:invalid literal for int() with base 10: 'one'
+Traceback (most recent call last):
+  File "/home/instabee/Documents/sss4.py", line 6, in <module>
+    b=int(input("enter b number"))
+ValueError: invalid literal for int() with base 10: 'one'
+INFO:root:request is completed
+INFO:root:a new request came
+ERROR:root:invalid literal for int() with base 10: '/usr/bin/python3.7 /home/instabee/Documents/sss4.py'
+Traceback (most recent call last):
+  File "/home/instabee/Documents/sss4.py", line 5, in <module>
+    a=int(input("enter a number"))
+ValueError: invalid literal for int() with base 10: '/usr/bin/python3.7 /home/instabee/Documents/sss4.py'
+INFO:root:request is completed
+INFO:root:a new request came
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "/home/instabee/Documents/sss4.py", line 7, in <module>
+    c=a/b
+ZeroDivisionError: division by zero
+INFO:root:request is completed
